@@ -1,5 +1,5 @@
 ## 🚀 About Me:
-Passionate about web/mobile development and new technologies. Always Learning.<br><br>Currently Workin with Node.js (Javascript) and Python for capture data and automate daily basis routines integrated with DataViz.
+Passionate about web/mobile development and new technologies. Always Learning.<br><br>Currently Working with Node.js and Python for capture data and automate daily basis routines integrated with DataViz (Power Platform).
 
 
 ## 🌐 Socials:
