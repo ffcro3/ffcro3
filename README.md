@@ -1,7 +1,9 @@
 ## 🚀 About Me:
 Passionate about web/mobile development and new technologies. Always Learning.<br><br>Currently Working with Node.js and Python for data capture and daily basis automations (puppeteer, robotjs, playwright, bs4 and nutjs) integrated with DataViz (Power Platform).
 
-Listen on ![soundcloud](https://badgen.net/badge/listen/soundcloud/orange?url=https://iili.io/HvLobZN.png)
+Listen on:
+
+![soundcloud](https://badgen.net/badge/listen/soundcloud/orange?url=https://iili.io/HvLobZN.png)
 
 
 ## 🌐 Socials:
