@@ -3,7 +3,8 @@ Passionate about web/mobile development and new technologies. Always Learning.<b
 
 Listen on:
 
-![soundcloud](https://badgen.net/badge/listen/soundcloud/orange?url=https://iili.io/HvLobZN.png)
+[![soundcloud](https://badgen.net/badge/listen/soundcloud/orange?url=https://iili.io/HvLobZN.png)](https://soundcloud.com/ffcro3)
+[![soundcloud](https://badgen.net/badge/listen/spotify/green?url=https://iili.io/HvLobZN.png)](https://open.spotify.com/artist/3B9TouU7VxsMR1djwzjUIg?si=_yhYEmBPTqCCZcC-i5A13A)
 
 
 ## 🌐 Socials:
